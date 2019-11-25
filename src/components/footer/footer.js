@@ -1,7 +1,6 @@
 import React from "react"
 import "./footer.css"
 
-
 export default () => (
     <section className="section_all bg_footer">
         <div className="container">
@@ -13,5 +12,6 @@ export default () => (
                 </div>
             </div>
         </div>
+
     </section>
 )
